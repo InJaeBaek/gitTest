@@ -9,5 +9,7 @@ class GitTestApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+	
+	// 주석 추가
+	
 }
